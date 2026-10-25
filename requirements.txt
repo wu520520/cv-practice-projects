@@ -1,1 +1,10 @@
+# OpenCV 传统图像处理
 opencv-python
+
+# YOLO 目标检测（Ultralytics）
+ultralytics
+torch
+pillow
+
+# 常用数据/科学计算
+numpy
